@@ -1,5 +1,5 @@
 
-baseurl = "/kitcat"
+baseurl = "/"
 languageCode = "en-us"
 pagination.pagerSize = 5
 # theme = "terminal"
