@@ -1,4 +1,3 @@
-
 baseurl = "/"
 languageCode = "en-us"
 pagination.pagerSize = 5
@@ -28,50 +27,33 @@ pagination.pagerSize = 5
   # center theme with default width
   centerTheme = false
 
-  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
-  # then the file will be used as a cover automatically.
-  # With this option you don't have to put the `cover` param in a front-matter.
+  # auto cover image from /static
   autoCover = true
 
-  # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  # post last updated options
   showLastUpdated = false
   enableGitInfo = false
 
-  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
-
-  # set all headings to their default size (depending on browser settings)
-  # oneHeadingSize = false # default
-
-  # whether to show a page's estimated reading time
-  # readingTime = false # default
-
-  # whether to show a table of contents
-  # can be overridden in a page's front-matter
-  # Toc = false # default
-
-  # set title for the table of contents
-  # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
+  # 👉 CUSTOM CSS + JS (Required for mobile menu fix)
+  customCSS = ["css/menu.css"]
+  customJS = ["js/menu.js"]
 
 [params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
   creator = ""
   site = ""
 
 [languages]
+
   [languages.en]
     languageName = "English"
     title = "Terminal"
+
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
       owner = "KitKat"
       keywords = ""
-      copyright = "Theme made by KitKat"
-      # menuMore = "Show more"
+      copyright = ""
+
       readMore = "Read more"
       readOtherPosts = "Read other posts"
       newerPosts = "Newer posts"
@@ -84,45 +66,59 @@ pagination.pagerSize = 5
         logoText = "Terminal"
 
       [languages.en.menu]
+
         [[languages.en.menu.main]]
           identifier = "about"
           name = "About"
           url = "/about"
           weight = 1
+
         [[languages.en.menu.main]]
           identifier = "showcase"
           name = "Blog"
           url = "/blogs/showcase"
           weight = 3
 
-    [languages.pl]
-      languageName = "Polski"
-      title = "Terminal"
-      [languages.pl.params]
-        subtitle = "Prosty theme w stylu retro dla Hugo"
-        owner = ""
-        keywords = ""
-        copyright = ""
-        menuMore = "Pokaż więcej"
-        readMore = "Czytaj dalej"
-        readOtherPosts = "Zobacz więcej postów"
-        newerPosts = "Nowsze posty"
-        olderPosts = "Starsze posty"
-        missingContentMessage = "Nie odnaleziono strony..."
-        missingBackButtonLabel = "Wróć do strony głównej"
+  [languages.pl]
+    languageName = "Polski"
+    title = "Terminal"
 
-      [languages.pl.params.logo]
-        logoText = "Terminal"
+    [languages.pl.params]
+      subtitle = "Prosty theme w stylu retro dla Hugo"
+      owner = ""
+      keywords = ""
 
-      [languages.pl.menu]
-        [[languages.pl.menu.main]]
-          identifier = "about"
-          name = "O motywie"
-          url = "/pl/about"
-        [[languages.pl.menu.main]]
-          identifier = "showcase"
-          name = "Prezentacja"
-          url = "/blogs/showcase"
+      readMore = "Czytaj dalej"
+      readOtherPosts = "Zobacz więcej postów"
+      newerPosts = "Nowsze posty"
+      olderPosts = "Starsze posty"
+      missingContentMessage = "Nie odnaleziono strony..."
+      missingBackButtonLabel = "Wróć do strony głównej"
 
+    [languages.pl.params.logo]
+      logoText = "Terminal"
+
+    [languages.pl.menu]
+
+      [[languages.pl.menu.main]]
+        identifier = "about"
+        name = "O motywie"
+        url = "/pl/about"
+
+      [[languages.pl.menu.main]]
+        identifier = "showcase"
+        name = "Prezentacja"
+        url = "/blogs/showcase"
+
+# 👉 Mount custom CSS & JS folders (Required for Hugo to load assets)
+[[module.mounts]]
+  source = "assets/css"
+  target = "assets/css"
+
+[[module.mounts]]
+  source = "assets/js"
+  target = "assets/js"
+
+# Import the Terminal theme
 [[module.imports]]
   path = 'github.com/panr/hugo-theme-terminal/v4'
