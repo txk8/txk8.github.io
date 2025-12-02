@@ -43,4 +43,3 @@ Outside of work, I'm into sports especially weightlifting, language learning, an
     <span class="icon">💻</span> GitHub
   </a>
 </div>
-
