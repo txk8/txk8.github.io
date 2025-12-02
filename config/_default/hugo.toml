@@ -78,7 +78,7 @@ pagination.pagerSize = 5
       olderPosts = "Older posts"
       missingContentMessage = "Page not found..."
       missingBackButtonLabel = "Back to home page"
-      missingBackButtonURL = "https://idanishrangaiz.github.io/kitcat/"
+      missingBackButtonURL = "/"
 
       [languages.en.params.logo]
         logoText = "Terminal"
