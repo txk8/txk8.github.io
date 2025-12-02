@@ -30,7 +30,6 @@ Outside of work, I'm into sports especially weightlifting, language learning, an
   <ul>
     <li><strong>AZ-900:</strong> June 2024 </li>
     <li><strong>AZ-104:</strong> Studying in progress</li>
-    <li><strong>AZ-104:</strong> Studying in progress</li>
   </ul>
 </div>
 
@@ -45,4 +44,3 @@ Outside of work, I'm into sports especially weightlifting, language learning, an
   </a>
 </div>
 
-So, there you have it... enjoy!
