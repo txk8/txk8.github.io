@@ -1,3 +1,8 @@
 <footer class="footer"><div class="footer__inner"><div class="copyright"><span>© 2025 Powered by <a href="https://ozysolutions.com">Ozy Soltuions</a></span>
 <span>:: Theme made by <a href="https://github.com/txk8" target="_blank">Kate</a></span></div></div></footer>
-<script src="https://panr.github.io/hugo-theme-terminal-demo/bundle.min.js"></script>
+{{ $menu := resources.Get "js/menu.js" | js.Build }}
+{{ $cp := resources.Get "js/code.js" | js.Build }}
+
+{{ $bundle := slice $menu $cp | resources.Concat "bundle.js" | resources.Minify }}
+
+<script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
