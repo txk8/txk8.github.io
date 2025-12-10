@@ -15,22 +15,15 @@ I recently completed a course with Microsoft covering how to configure Sentinel 
 4. Run a simulated attack to test analytics and automated response
 
 <!--more-->
-
-## Headings
-
 <h1>
   Deploy a Sentinel workspace
 </h1>
 
+To deploy a workspace do trgrgfr
 <h1>
   Install Content Hub solutions and ingest Windows Security logs
 </h1>
-
-###### Header
-
-## Paragraph
-
-content
+To install content hub do X Y Z
 
 
 
