@@ -91,7 +91,7 @@ pagination.pagerSize = 5
         [[languages.en.menu.main]]
           identifier = "showcase"
           name = "Blog"
-          url = "/blogs/showcase"
+          url = "/blogs/"
           weight = 3
 
     [languages.pl]
