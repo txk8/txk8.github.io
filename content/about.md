@@ -1,15 +1,14 @@
 +++
 title = "About"
-date = "2025-11-25"
 author = "Kate"
 type = "page"
 +++
 
-## Hi there
+## Hi👋
 
 My name is Kate Fowler and I'm an Azure Cloud Engineer with a background in Cyber Security. Focused on building and securing cloud environments, and learning new technologies.
 
-Outside of work, I'm into sports especially weightlifting, language learning, and travelling the world.
+Outside of work, I'm into sports especially weightlifting🏋‍♀, language learning🇪🇸, and travelling the world🌴.
 
 
 
