@@ -1,8 +1,8 @@
 +++
 author = "Kate"
-title = "Intro to Sentinel"
+title = "Deploying Microsoft Sentinel in Azure: A Practical Guide to Cloud Security Monitoring"
 date = "09-12-2025"
-description = "Practical Intro to Sentinel"
+description = "Hands-on lab showing how I deployed Microsoft Sentinel from scratch in Azure, configured data connectors, created analytics rules, automated incident response, and tested detections with a simulated attack."
 +++
 
 # Deploying Microsoft Sentinel from Scratch: Hands-On Lab
