@@ -35,7 +35,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
    - **Name**
    - **Region**
 3. Click **Review + Create**, then **Create** after validation.
-4. ![Workspace Screenshot](Screenshot 2025-12-10 at 15.43.22.png)
+4. ![Workspace Screenshot](/static/img/Screenshot 2025-12-10 at 15.43.22.png)
 
 ---
 
@@ -43,7 +43,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
 
 1. Search for **Microsoft Sentinel** in the portal.
 2. Click **Create**, select your workspace, then **Add**.
-3. ![Sentinel Workspace Screenshot](Screenshot 2025-12-10 at 16.05.33.png)
+3. ![Sentinel Workspace Screenshot](/static/img/Screenshot 2025-12-10 at 16.05.33.png)
 
 ---
 
