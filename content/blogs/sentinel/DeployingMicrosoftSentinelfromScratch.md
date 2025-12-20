@@ -43,7 +43,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
 
 1. Search for **Microsoft Sentinel** in the portal.
 2. Click **Create**, select your workspace, then **Add**.
-3. ![Sentinel Workspace Screenshot](Screenshot 2025-12-10 at 16.05.33.png)
+3. ![Sentinel Workspace Screenshot](/blogs/sentinel/.png)
 
 ---
 
@@ -52,7 +52,9 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
 1. Navigate to the resource group → **Access Control (IAM)** → **Add role assignment**.
 2. Search for **Microsoft Sentinel Contributor** and select it.
 3. Assign to a user (e.g., Operator1) → **Review + Assign**.
-4. ![Role Assignment Screenshot](path-to-your-image.png)
+4. ![Role Assignment Screenshot](/blogs/sentinel/3iam.png)
+
+5. ![Role Assignment Screenshot](/blogs/sentinel/4iam.png)
 
 ---
 
@@ -60,7 +62,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
 
 1. Go to the Log Analytics workspace → **Settings → Usage and estimated costs → Data Retention**.
 2. Change the retention from 30 days to 180 days → **OK**.
-3. ![Data Retention Screenshot](path-to-your-image.png)
+3. ![Data Retention Screenshot](/blogs/sentinel/5dr.png)
 
 ---
 
@@ -71,7 +73,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
    - Windows Security Events
    - Azure Activity
    - Microsoft Defender for Cloud
-3. ![Content Hub Screenshot](path-to-your-image.png)
+3. ![Content Hub Screenshot](/blogs/sentinel/.png)
 
 ---
 
@@ -83,12 +85,11 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
 2. Launch **Azure Policy Assignment Wizard**.
 3. Enter subscription and version; select your workspace.
 4. Tick **Create remediation task**, leave default policy → **Review + Create → Create**.
-5. ![Azure Activity Connector Screenshot](path-to-your-image.png)
 
 ### Microsoft Defender for Cloud
 
 1. Open the connector page → Toggle **Connected** → Ensure **Bi-directional sync** is enabled.
-2. ![Defender Connector Screenshot](path-to-your-image.png)
+2. ![Defender Connector Screenshot](/blogs/sentinel/6.png)
 
 ---
 
@@ -118,10 +119,18 @@ SecurityEvent
 Sentinel → Configuration → Automation → Create.
 Pick Assign owner, select Operator1 → Apply.
 
+![Role Assignment Screenshot](/blogs/sentinel/8ar.png)
+   
 ###  Simulate Privilege Escalation
 VM1 → Operations → Run command → RunPowerShellScript.
 Enter test script simulating privilege escalation.
 Verify incident is created in Sentinel → Open incident → View details.
+
+![Role Assignment Screenshot](/blogs/sentinel/command.png)
+
+![Role Assignment Screenshot](/blogs/sentinel/command2.png)
+
+![Role Assignment Screenshot](/blogs/sentinel/incident.png)
 
 ###  Reflection
 -How to deploy Sentinel end-to-end in Azure.
