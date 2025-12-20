@@ -1,7 +1,7 @@
 +++
 author = "Kate"
 title = "Deploying Microsoft Sentinel in Azure: A Practical Guide to Cloud Security Monitoring"
-date = "20-12-2025"
+date = "12-20-2025"
 description = "Hands-on lab showing how I deployed Microsoft Sentinel from scratch in Azure, configured data connectors, created analytics rules, automated incident response, and tested detections with a simulated attack."
 +++
 
@@ -35,7 +35,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
    - **Name**
    - **Region**
 3. Click **Review + Create**, then **Create** after validation.
-4. ![Workspace Screenshot](/static/img/Screenshot 2025-12-10 at 15.43.22.png)
+4. ![Workspace Screenshot](/Screenshot2025-12-10at15.43.22.png)
 
 ---
 
