@@ -35,7 +35,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
    - **Name**
    - **Region**
 3. Click **Review + Create**, then **Create** after validation.
-4. ![Workspace Screenshot](/blogs/sentinel/Screenshot2025-12-10at15.43.22.png)
+4. ![LA Screenshot](/blogs/sentinel/Screenshot2025-12-10at15.43.22.png)
 
 ---
 
@@ -43,7 +43,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
 
 1. Search for **Microsoft Sentinel** in the portal.
 2. Click **Create**, select your workspace, then **Add**.
-3. ![Sentinel Workspace Screenshot](/blogs/sentinel/.png)
+3. ![Sentinel Workspace Screenshot](/blogs/sentinel/sentinel.png)
 
 ---
 
@@ -73,7 +73,6 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
    - Windows Security Events
    - Azure Activity
    - Microsoft Defender for Cloud
-3. ![Content Hub Screenshot](/blogs/sentinel/.png)
 
 ---
 
@@ -100,7 +99,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
 1. Sentinel → **Configuration → Analytics → Rule templates**.
 2. Search: *Suspicious number of resource creation or deployment activities*.
 3. Create rule, set **Query scheduling** to run every 1 hour → **Review + Create → Save**.
-4. ![Analytics Rule Screenshot](path-to-your-image.png)
+
 
 ### NRT Query Rule
 
@@ -119,18 +118,18 @@ SecurityEvent
 Sentinel → Configuration → Automation → Create.
 Pick Assign owner, select Operator1 → Apply.
 
-![Role Assignment Screenshot](/blogs/sentinel/8ar.png)
+![Automation Screenshot](/blogs/sentinel/8ar.png)
    
 ###  Simulate Privilege Escalation
 VM1 → Operations → Run command → RunPowerShellScript.
 Enter test script simulating privilege escalation.
 Verify incident is created in Sentinel → Open incident → View details.
 
-![Role Assignment Screenshot](/blogs/sentinel/command.png)
+![Test Screenshot](/blogs/sentinel/command.png)
 
-![Role Assignment Screenshot](/blogs/sentinel/command2.png)
+![Test Assignment Screenshot](/blogs/sentinel/command2.png)
 
-![Role Assignment Screenshot](/blogs/sentinel/incident.png)
+![Test Assignment Screenshot](/blogs/sentinel/incident.png)
 
 ###  Reflection
 -How to deploy Sentinel end-to-end in Azure.
