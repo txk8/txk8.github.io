@@ -35,7 +35,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
    - **Name**
    - **Region**
 3. Click **Review + Create**, then **Create** after validation.
-4. ![Workspace Screenshot](path-to-your-image.png)
+4. ![Workspace Screenshot](sentinel/Screenshot 2025-12-10 at 15.43.22.png)
 
 ---
 
