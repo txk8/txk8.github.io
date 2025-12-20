@@ -1,7 +1,7 @@
 +++
 author = "Kate"
 title = "Deploying Microsoft Sentinel in Azure: A Practical Guide to Cloud Security Monitoring"
-date = "09-12-2025"
+date = "12-2025"
 description = "Hands-on lab showing how I deployed Microsoft Sentinel from scratch in Azure, configured data connectors, created analytics rules, automated incident response, and tested detections with a simulated attack."
 +++
 
@@ -13,7 +13,7 @@ In this lab, I deployed Microsoft Sentinel from scratch in an Azure environment.
 
 ## Key Concepts
 
-| Term | What it is (simple) | Why it matters |
+| Term | What it is | Why it matters |
 |------|-------------------|----------------|
 | **Workspace** | A Log Analytics space in Azure where data is stored | All Sentinel data (logs, alerts) lives here |
 | **Sentinel** | Cloud SIEM tool for detecting, investigating, and responding to threats | Central point for security monitoring in Azure |
