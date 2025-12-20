@@ -127,7 +127,7 @@ Verify incident is created in Sentinel → Open incident → View details.
 
 ![Test Screenshot](/blogs/sentinel/command.png)
 
-![Test Assignment Screenshot](/blogs/sentinel/command2.png)
+![Test Assignment Screenshot](/blogs/sentinel/command2_.png)
 
 ![Test Assignment Screenshot](/blogs/sentinel/incident.png)
 
