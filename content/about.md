@@ -6,6 +6,11 @@ type = "page"
 
 ## Hi, I'm Kate👋
 
+<!-- Social Buttons -->
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/katefowler1/" target="_blank" class="btn linkedin-btn">
+    <span class="icon">🔗</span> LinkedIn
+
 My name is Kate Fowler and I'm an Azure Engineer with a background in Cyber Security. I currently work in cloud engineering, with several years of experience across security, vulnerability management, and cloud platforms. Over time, I've moved from more security-focused roles into hands-on cloud engineering, where I get to combine security, infrastructure, and automation rather than treating them as separate concerns.
 
 Outside of work, I like staying active through sports, especially weightlifting🏋‍♀. More recent experiements include surfing and pickleball. I'm a bit obsessed with travel and would love to work & live abroad in the future 🌴. I also enjoy learning new languages 🇪🇸. 
@@ -36,10 +41,7 @@ This site is a small space where I share what I'm working and learning on. If yo
   </ul>
 </div>
 
-<!-- Social Buttons -->
-<div class="social-links">
-  <a href="https://www.linkedin.com/in/katefowler1/" target="_blank" class="btn linkedin-btn">
-    <span class="icon">🔗</span> LinkedIn
+
   </a>
 
   <a href="https://github.com/txk8" target="_blank" class="btn github-btn">
