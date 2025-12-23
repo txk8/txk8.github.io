@@ -1,6 +1,6 @@
 +++
 author = "Kate"
-framed = true
+framed = false
 +++
 
 # Hi, I'm Kate👋
