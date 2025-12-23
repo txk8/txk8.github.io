@@ -5,7 +5,6 @@ type = "page"
 +++
 
 ## Hi, I'm Kate👋
-
 <img src="/img/kate-flower2.png" alt="Kate Fowler" style="width:200px; height:200px; border-radius:50%; object-fit:cover; display:block; margin:auto;">
 
 <!-- Social Buttons -->
@@ -19,16 +18,15 @@ type = "page"
     <span class="icon">💻</span> GitHub
   </a>
 
-My name is Kate Fowler and I'm an Azure Engineer with a background in Cyber Security. I currently work in cloud engineering, with several years of experience across security, vulnerability management, and cloud platforms. Over time, I've moved from more security-focused roles into hands-on cloud engineering, where I get to combine security, infrastructure, and automation rather than treating them as separate concerns.
+My name is Kate Fowler and I'm an Azure Engineer with a background in Cyber Security. I currently work in cloud engineering, with several years of experience across security, vulnerability management, and cloud platforms. 
+
+Over time, I've moved from more security-focused roles into hands-on cloud engineering, where I get to combine security, infrastructure, and automation rather than treating them as separate concerns.
 
 Outside of work, I like staying active through sports, especially weightlifting🏋‍♀. More recent experiements include surfing and pickleball. I'm a bit obsessed with travel and would love to work & live abroad in the future 🌴. I also enjoy learning new languages 🇪🇸. 
 
 This site is a small space where I share what I'm working on and learning. If you'd like to connect, you can find me by clicking on the LinkedIn button above.
 
-
-
 # Experience
-
 
 <div class="languages">
   <ul>
@@ -39,7 +37,6 @@ This site is a small space where I share what I'm working on and learning. If yo
   </ul>
 </div>
 
-
 # Education & Certifications
 
 <div class="languages">
@@ -49,7 +46,5 @@ This site is a small space where I share what I'm working on and learning. If yo
     <li><strong>BSc (Hons) Computer Science, 2:1</strong>, Robert Gordons University  </li>
   </ul>
 </div>
-
-
   </a>
 </div>
