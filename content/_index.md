@@ -3,11 +3,7 @@ author = "Kate"
 framed = true
 +++
 
-# Hello there!
-
-My name is Kate Fowler and I'm an Azure Cloud Engineer with a background in Cyber Security. Focused on building and securing cloud environments, and learning new technologies.
-
-![Terminal.css Preview](/img/kate-flower2.png)
+# Hi, I'm Kate👋
 
 <!-- Social Buttons -->
 <div class="social-links">
@@ -19,5 +15,10 @@ My name is Kate Fowler and I'm an Azure Cloud Engineer with a background in Cybe
     <span class="icon">💻</span> GitHub
   </a>
 </div>
+
+My name is Kate Fowler and I'm an Azure Cloud Engineer with a background in Cyber Security. Click About to find out more about, or take a look at my blog!
+
+![Terminal.css Preview](/img/kate-flower2.png)
+
 
 
