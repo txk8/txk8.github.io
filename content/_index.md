@@ -6,27 +6,6 @@ description = "Azure Cloud Engineer with a background in Cyber Security."
 images = ["/img/kate-flower.jpg"]
 +++
 
-<style>
-.profile-photo {
-  display: flex;
-  justify-content: center;
-  background: transparent;
-  padding: 0;
-}
-
-.profile-photo img {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;
-  background: transparent;
-  border: none;
-  box-shadow: none;
-}
-</style>
-
-
 # Hi, I'm Kate👋
 
 <!-- Social Buttons -->
@@ -43,21 +22,7 @@ images = ["/img/kate-flower.jpg"]
 I'm an Azure Cloud Engineer ☁️ with a background in Cyber Security. Click <strong>About</strong> to learn more about me, or explore my <strong>blog</strong> to see what I'm working on and learning lately.
 
 <!-- ![Terminal.css Preview](/img/kate-flower2.png) -->
-<div class="profile-photo">
-  <img
-  src="/img/kate-flower.jpg"
-  alt="Kate Fowler"
-  style="
-    width:200px;
-    height:200px;
-    border-radius:50%;
-    object-fit:cover;
-    display:block;
-    margin:auto;
-    border:2px solid #f5f5f5;
-  ">
-
-</div>
+<img src="/img/kate-flower2.png" alt="Kate Fowler" style="width:200px; height:200px; border-radius:50%; object-fit:cover; display:block; margin:auto;">
 
 
 
