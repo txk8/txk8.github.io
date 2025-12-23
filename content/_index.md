@@ -1,6 +1,9 @@
 +++
 author = "Kate"
 framed = false
+title = "Kate Fowler – Azure Cloud Engineer"
+description = "Azure Cloud Engineer with a background in Cyber Security."
+images = ["/img/kate-flower.jpg"]
 +++
 
 <style>
