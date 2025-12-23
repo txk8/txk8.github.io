@@ -41,7 +41,19 @@ I'm an Azure Cloud Engineer ☁️ with a background in Cyber Security. Click <s
 
 <!-- ![Terminal.css Preview](/img/kate-flower2.png) -->
 <div class="profile-photo">
-  <img src="/img/kate-flower.jpg" alt="Kate Fowler">
+  <img
+  src="/img/kate-flower.jpg"
+  alt="Kate Fowler"
+  style="
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    object-fit:cover;
+    display:block;
+    margin:auto;
+    border:2px solid #f5f5f5;
+  ">
+
 </div>
 
 
