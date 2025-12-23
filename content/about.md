@@ -38,12 +38,13 @@ This site is a small space where I share what I'm working and learning on. If yo
 </div>
 
 
-# Certifications & Skills
+# Education & Certifications
 
 <div class="languages">
   <ul>
     <li><strong>AZ-900:</strong> June 2024 </li>
-    <li><strong>AZ-104 & AZ-500:</strong> Studying in progress</li>
+    <li><strong>AZ-104: Microsoft Azure Administrator & AZ-500: Microsoft Azure Security Engineer:</strong> Studying in progress</li>
+    <li><strong>BSc (Hons) Computer Science, 2:1</strong>, Robert Gordons University  </li>
   </ul>
 </div>
 
