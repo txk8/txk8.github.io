@@ -6,6 +6,8 @@ type = "page"
 
 ## Hi, I'm Kate👋
 
+<img src="/img/kate-flower2.png" alt="Kate Fowler" style="width:200px; height:200px; border-radius:50%; object-fit:cover; display:block; margin:auto;">
+
 <!-- Social Buttons -->
 <div class="social-links">
   <a href="https://www.linkedin.com/in/katefowler1/" target="_blank" class="btn linkedin-btn">
