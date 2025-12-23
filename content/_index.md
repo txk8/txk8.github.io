@@ -6,6 +6,13 @@ description = "Azure Cloud Engineer with a background in Cyber Security."
 images = ["/img/kate-flower.jpg"]
 +++
 
+<!-- Social Meta Tags -->
+<meta property="og:title" content="Kate Fowler – Azure Cloud Engineer">
+<meta property="og:description" content="Azure Cloud Engineer with a background in Cyber Security.">
+<meta property="og:image" content="/img/kate-flower.jpg">
+<meta property="og:url" content="https://katefowler.co.uk">
+<meta property="og:type" content="website">
+
 # Hi, I'm Kate👋
 
 <!-- Social Buttons -->
