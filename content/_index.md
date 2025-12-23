@@ -16,7 +16,7 @@ framed = true
   </a>
 </div>
 
-My name is Kate Fowler and I'm an Azure Cloud Engineer with a background in Cyber Security. Click About to find out more about, or take a look at my blog!
+My name is Kate Fowler and I'm an Azure Cloud Engineer with a background in Cyber Security. Click About to find out more, or take a look at my blog!
 
 ![Terminal.css Preview](/img/kate-flower2.png)
 
