@@ -22,7 +22,7 @@ My name is Kate Fowler and I'm an Azure Engineer with a background in Cyber Secu
 
 Over time, I've moved from more security-focused roles into hands-on cloud engineering, where I get to combine security, infrastructure, and automation rather than treating them as separate concerns.
 
-Outside of work, I like staying active through sports, especially weightlifting🏋‍♀. More recent experiements include surfing. I'm a bit obsessed with travel and would love to work & live abroad in the future 🌴. I also enjoy learning new languages 🇪🇸. 
+Outside of work, I like staying active through sports, especially weightlifting and surfing 🏋‍♀️. I’m passionate about travel and would love to work and live abroad in the future 🌴. I also enjoy learning new languages and am currently learning Spanish 🇪🇸.
 
 This site is a small space where I share what I'm working on and learning. If you'd like to connect, you can find me by clicking on the LinkedIn button above.
 
