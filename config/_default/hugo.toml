@@ -61,6 +61,10 @@ pagination.pagerSize = 5
   creator = ""
   site = ""
 
+[params.opengraph]
+  title = "Kate Fowler | Azure Cloud & Security Engineer"
+  description = "Azure Cloud & Security Engineer."
+  
 [languages]
   [languages.en]
     languageName = "English"
@@ -80,7 +84,7 @@ pagination.pagerSize = 5
       missingBackButtonURL = "/"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Kate"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
