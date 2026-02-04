@@ -64,10 +64,10 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Kate Fowler"
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = "KitKat"
+      subtitle = "Kate Fowler | Azure Cloud & Security Engineer"
+      owner = "Kate"
       keywords = ""
       copyright = "Theme made by KitKat"
       # menuMore = "Show more"
