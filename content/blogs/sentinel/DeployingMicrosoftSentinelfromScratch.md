@@ -133,9 +133,13 @@ Verify incident is created in Sentinel → Open incident → View details.
 
 ###  Reflection
 -How to deploy Sentinel end-to-end in Azure.
+
 -How data flows from source → log analytics → alerts → incidents.
+
 -How to create analytics rules (scheduled + near real-time).
+
 -How to automate responses with automation rules.
+
 -How to validate detections with simulated attacks.
 
 
