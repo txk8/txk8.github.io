@@ -48,5 +48,16 @@ This site is a small space where I share what I'm working on and learning. If yo
     <li><strong>BSc (Hons) Computer Science, 2:1</strong>, Robert Gordons University  </li>
   </ul>
 </div>
+
+# Talks & Programmes
+
+<div class="languages">
+  <ul>
+<li>Delivered a talk on Common Azure misconfigurations, real-world attacks, and mitigations at the Women in Cybersecurity meetup. </li>
+    
+<li> Empowering Women to Lead Cyber Security - joined a cross-sector UK leadership programme for women in cyber, where I met many peers, worked as part of a team on a research project, and presented a talk on retaining women in cybersecurity at our graduation event. </li>    
+  </ul>
+</div>
+    
   </a>
 </div>
