@@ -44,7 +44,7 @@ This site is a small space where I share what I'm working on and learning. If yo
     <li><strong>AZ-900:</strong> June 2025 </li>
     <li><strong>SC-900:</strong> January 2026 </li>
     <li><strong>(AZ-104) Microsoft Azure Administrator :</strong> Studying in progress</li>
-   <li><strong>(AZ-500) Microsoft Azure Security Engineer : :</strong> Studying in progress</li>
+   <li><strong>(AZ-500) Microsoft Azure Security Engineer :</strong> Studying in progress</li>
     <li><strong>BSc (Hons) Computer Science, 2:1</strong>, Robert Gordons University  </li>
   </ul>
 </div>
@@ -53,10 +53,10 @@ This site is a small space where I share what I'm working on and learning. If yo
 
 <div class="languages">
   <ul>
-<li>Delivered a talk on Common Azure misconfigurations, real-world attacks, and mitigations at the Women in Cybersecurity meetup. </li>
-    <img src="/img/Screenshot 2026-02-13 at 13.04.55.png" alt="Kate Fowler" style="object-fit:cover; display:block; margin:auto;">
+<li><strong>Delivered a talk on Common Azure misconfigurations </strong>, real-world attacks, and mitigations at the Women in Cybersecurity meetup. </li>
+    <img src="/img/Screenshot 2026-02-13 at 13.04.55.png" alt="Kate Fowler" style="width:400px; height:400px; "object-fit:cover; display:block; margin:auto;">
     
-<li> Empowering Women to Lead Cyber Security - joined a cross-sector UK leadership programme for women in cyber, where I met many peers, worked as part of a team on a research project, and presented a talk on retaining women in cybersecurity at our graduation event. </li> 
+<li><strong> Empowering Women to Lead Cyber Security </strong> - joined a cross-sector UK leadership programme for women in cyber, where I met many peers, worked as part of a team on a research project, and presented a talk on retaining women in cybersecurity at our graduation event. </li> 
 <img src="/img/IMG_20221028_154823~2.jpg" alt="Kate Fowler" style="width:200px; height:200px; border-radius:50%; object-fit:cover; display:block; margin:auto;">
   </ul>
 </div>
