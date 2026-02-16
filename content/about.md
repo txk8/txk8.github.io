@@ -55,7 +55,8 @@ This site is a small space where I share what I'm working on and learning. If yo
   <ul>
 <li>Delivered a talk on Common Azure misconfigurations, real-world attacks, and mitigations at the Women in Cybersecurity meetup. </li>
     
-<li> Empowering Women to Lead Cyber Security - joined a cross-sector UK leadership programme for women in cyber, where I met many peers, worked as part of a team on a research project, and presented a talk on retaining women in cybersecurity at our graduation event. </li>    
+<li> Empowering Women to Lead Cyber Security - joined a cross-sector UK leadership programme for women in cyber, where I met many peers, worked as part of a team on a research project, and presented a talk on retaining women in cybersecurity at our graduation event. </li> 
+<img src="/img/IMG_20221028_154823~2.jpg" alt="Kate Fowler" style="width:200px; height:200px; border-radius:50%; object-fit:cover; display:block; margin:auto;">
   </ul>
 </div>
     
