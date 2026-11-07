@@ -41,12 +41,11 @@ This site is a small space where I share what I'm working on and learning. If yo
 
 <div class="languages">
   <ul>
-    <li><strong>SC-300:</strong> October 2026 </li>
-    <li><strong>SC-900:</strong> January 2026 </li>
-    <li><strong>AZ-900:</strong> June 2025 </li>
-    <li><strong>(AZ-104) Microsoft Azure Administrator :</strong> Studying in progress</li>
-   <li><strong>(AZ-500) Microsoft Azure Security Engineer :</strong> Studying in progress</li>
+    <li><strong>(SC-300) Identity and Access Administrator Associate:</strong> October 2026 </li>
+    <li><strong>(SC-900) Security, Compliance, and Identity Fundamentals:</strong> January 2026 </li>
+    <li><strong>(AZ-900) Azure Fundamentals:</strong> June 2025 </li>
     <li><strong>BSc (Hons) Computer Science, 2:1</strong>, Robert Gordons University  </li>
+    <li><strong>(AZ-104) Microsoft Azure Administrator :</strong> Studying in progress</li>
   </ul>
 </div>
 
