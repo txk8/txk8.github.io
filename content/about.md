@@ -30,7 +30,7 @@ This site is a small space where I share what I'm working on and learning. If yo
 
 <div class="languages">
   <ul>
-    <li><strong>Cloud Engineer</strong> National Records of Scotland 2024 - Current</li>
+    <li><strong>Cloud Engineer</strong> National Records of Scotland July 2024 - October 2026 </li>
     <li><strong>Senior Cyber Defence & Vulnerability Analyst</strong> Scottish Government 2022 - 2024</li>
     <li><strong>Cyber Defence Analyst</strong> Scottish Government 2021 - 2022</li>
     <li><strong>IT Support Analyst</strong> Marathon Oil/Rockrose Energy 2018 - 2020</li>
@@ -41,8 +41,9 @@ This site is a small space where I share what I'm working on and learning. If yo
 
 <div class="languages">
   <ul>
-    <li><strong>AZ-900:</strong> June 2025 </li>
+    <li><strong>SC-300:</strong> October 2026 </li>
     <li><strong>SC-900:</strong> January 2026 </li>
+    <li><strong>AZ-900:</strong> June 2025 </li>
     <li><strong>(AZ-104) Microsoft Azure Administrator :</strong> Studying in progress</li>
    <li><strong>(AZ-500) Microsoft Azure Security Engineer :</strong> Studying in progress</li>
     <li><strong>BSc (Hons) Computer Science, 2:1</strong>, Robert Gordons University  </li>
